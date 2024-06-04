@@ -1,0 +1,7 @@
+% clauses
+likes(ram, mango).
+girl(seema).
+likes(bill, candy).
+red(roses).
+owns(john, gold).
+
